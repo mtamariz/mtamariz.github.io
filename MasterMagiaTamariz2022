@@ -1,0 +1,524 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Máster de Magia Tamariz</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/Monica_2016.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Monica Tamariz</a></h1>
+					<p>Curso profesional intensivo producido por La Gran Escuela de Magia “Ana Tamariz”<br />
+					Psychology, Heriot-Watt University</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">Inicio</a></li>
+						<!--<li><a href="#two">Borrado</a></li>   -->
+						<li><a href="#three">Contenidos</a></li>
+						<li><a href="#four">Profesorado</a></li>
+						<li><a href="#four">Requisitos de admisión</a></li>
+						<li><a href="#four">Fechas y lugar</a></li>
+						<li><a href="#four">Precios</a></li>
+						<li><a href="#four">Contacto</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://twitter.com/EscuelaAnaT" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/EscuelaAnaT/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/anatamariz/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/mtamariz/" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:escuela@magiatamariz.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>Máster de Magia Tamariz</h2>
+										<p>Curso profesional intensivo producido por <a href="https://www.magiatamariz.com">La Gran Escuela de Magia “Ana Tamariz”</a></p>
+									</header>
+												
+									<p>I study the cultural evolution of language. I am also interested in cultural-evolutionary explanations of other human communication systems, for instance the system used by Argentine tango dancers, and of other cultural domains, such as technology or art. I am an Associate member of the <a href="http://www.lel.ed.ac.uk/cle">Centre for Language Evolution</a> at the University of Edinburgh.</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+						<!--	<section id="two">
+								<div class="container">
+									<h3>Teachng</h3>
+									<p>In 2016-17 I am teaching.</p>
+									<ul class="feature-icons">
+										<li class="fa-cubes">Cognitive Psychology</li>
+										<li class="fa-cubes">Cognition across the lifespan</li>
+										<li class="fa-cubes">Research methods and statistics</li>
+									</ul>
+								</div>
+							</section>   -->
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Some recent publications</h3>
+									<p>Here are some publications. You can see more in <a href="https://scholar.google.co.uk/citations?user=j4r9_FEAAAAJ&hl=en">google scholar</a>.</p>
+									<div class="features">
+										
+										<article>
+											<a href="http://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-011516-033807" class="image"><img src="images/Monica2017.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-011516-033807">Tamariz (2017)<br />Experimental studies of the cultural evolution of language</a></h4>
+												<p>Long review of recent experiments showing how cultural evolution has been used to explain the origins of structure in linguistic signals, and in the mapping between signals and meanings.</p>
+											</div>
+										</article>
+										<article>
+											<a href="http://ac.els-cdn.com/S2352250X15002225/1-s2.0-S2352250X15002225-main.pdf?_tid=a3140758-5993-11e6-86b8-00000aacb362&acdnat=1470240311_8ed01b42bb60a0849863ca06111d4b0a" class="image"><img src="images/TamarizKirby2016.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://ac.els-cdn.com/S2352250X15002225/1-s2.0-S2352250X15002225-main.pdf?_tid=a3140758-5993-11e6-86b8-00000aacb362&acdnat=1470240311_8ed01b42bb60a0849863ca06111d4b0a">Tamariz & Kirby (2016)<br />The cultural evolution of language</a></h4>
+												<p>Short review of recent experiments showing how cultural evolution has been used to explain the origins of structure in linguistic signals, and in the mapping between signals and meanings.</p>
+											</div>
+										</article>
+										<article>
+											<a href="http://dspace.stir.ac.uk/bitstream/1893/22564/1/Kirby%20et%20al_Cognition_2015.pdf" class="image"><img src="images/Kirby_etal2015.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://dspace.stir.ac.uk/bitstream/1893/22564/1/Kirby%20et%20al_Cognition_2015.pdf">Kirby, Tamariz, Cornish & Smith (2015)<br />Compression and communication in the cultural evolution of linguistic structure</a></h4>
+												<p>Simulations and experiments demonstrate that linguistic structure arises from a trade-off between pressures for compressibility (imposed during learning) and expressivity (imposed during communication).</p>
+											</div>
+										<article>
+											<a href="http://onlinelibrary.wiley.com/store/10.1111/cogs.12144/asset/cogs12144.pdf?v=1&t=iz7636a5&s=02bca4061e7f8de3c757dd166bad00fbb10daafd" class="image"><img src="images/TamarizKirby2015.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://onlinelibrary.wiley.com/store/10.1111/cogs.12144/asset/cogs12144.pdf?v=1&t=iz7636a5&s=02bca4061e7f8de3c757dd166bad00fbb10daafd">Tamariz & Kirby (2015)<br />Culture: Copying, compression, and conventionality</a></h4>
+												<p>This experimental study crisply demonstrates that when behavior is transmitted through the bottleneck of learning (even if this bottleneck is as tiny as remembering a drawing for a matter of seconds), then we see a cumulative increase in compressibility.</p>
+											</div>
+										</article>
+										<article>
+											<a href="http://rspb.royalsocietypublishing.org/content/royprsb/281/1788/20140488.full.pdf" class="image"><img src="images/Tamarizetal2014.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://rspb.royalsocietypublishing.org/content/royprsb/281/1788/20140488.full.pdf">Tamariz, Ellison, Barr & Fay (2014)<br />Cultural selection drives the evolution of human communication systems</a></h4>
+												<p>The spread of graphical signal variants in a closed-group population (Fay et al. 2010) is best explained by a model that includes two types of cultural selection: content-based bias and egocentric bias.</p>
+											</div>
+										</article>
+										<article>
+											<a href="http://download.springer.com/static/pdf/489/art%253A10.3758%252FBF03195431.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.3758%2FBF03195431&token2=exp=1470402500~acl=%2Fstatic%2Fpdf%2F489%2Fart%25253A10.3758%25252FBF03195431.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.3758%252FBF03195431*~hmac=ad30ae8a8f8f4ac862f08ce65953193f097915da94f4534ea0856602869547de" class="image"><img src="McDonaldTamariz2002.png" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://download.springer.com/static/pdf/489/art%253A10.3758%252FBF03195431.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.3758%2FBF03195431&token2=exp=1470402500~acl=%2Fstatic%2Fpdf%2F489%2Fart%25253A10.3758%25252FBF03195431.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.3758%252FBF03195431*~hmac=ad30ae8a8f8f4ac862f08ce65953193f097915da94f4534ea0856602869547de">McDonald & Tamariz (2002)<br />Completion norms for 112 Spanish sentences</a></h4>
+												<p>The norms are found <a href="https://mtamariz.github.io/spanish_completion_norms.html">here</a>.</p>
+											</div>
+										</article>
+										</article>
+									</div>
+									<p>See more of my publications in <a href="https://scholar.google.co.uk/citations?user=j4r9_FEAAAAJ&hl=en">google scholar</a>.</p>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Contact Me</h3>
+									<p>Monica Tamariz<br />Room 2.64b <br />David Brewster Building<br />Psychology<br />School of Management and Languages <br />Heriot-Watt University<br />Riccarton Campus<br />Edinburgh EH14 4AS</p>
+									<p>Tel: +44 (0)131 451 3468<br /><a href="mailto:mt43@hw.ac.uk">Email</a></p>
+<!--									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
+											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<ul class="actions">
+													<li><input type="submit" class="special" value="Send Message" /></li>
+													<li><input type="reset" value="Reset Form" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+									-->
+								</div>
+							</section>
+
+						<!-- Five -->
+						<!--
+							<section id="five">
+								<div class="container">
+									<h3>Elements</h3>
+									<section>
+										<h4>Text</h4>
+										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+										This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+										<hr />
+										<header>
+											<h4>Heading with a Subtitle</h4>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<header>
+											<h5>Heading with a Subtitle</h5>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<hr />
+										<h2>Heading Level 2</h2>
+										<h3>Heading Level 3</h3>
+										<h4>Heading Level 4</h4>
+										<h5>Heading Level 5</h5>
+										<h6>Heading Level 6</h6>
+										<hr />
+										<h5>Blockquote</h5>
+										<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+										<h5>Preformatted</h5>
+										<pre><code>i = 0;
+	while (!deck.isInOrder()) {
+	    print 'Iteration ' + i;
+	    deck.shuffle();
+	    i++;
+	}
+	print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="6u 12u(xsmall)">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="6u 12u(xsmall)">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button special">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button special small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button special">Special</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special big">Big</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button special fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button special fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special icon fa-download">Icon</a></li>
+											<li><a href="#" class="button icon fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button special disabled">Special</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row uniform">
+												<div class="6u 12u(xsmall)">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="6u 12u(xsmall)">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<div class="select-wrapper">
+														<select name="demo-category" id="demo-category">
+															<option value="">- Category -</option>
+															<option value="1">Manufacturing</option>
+															<option value="1">Shipping</option>
+															<option value="1">Administration</option>
+															<option value="1">Human Resources</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+								</div>
+							</section>
+						-->
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Monica Tamariz. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="js/jquery.min.js"></script>
+			<script src="js/jquery.scrollzer.min.js"></script>
+			<script src="js/jquery.scrolly.min.js"></script>
+			<script src="js/skel.min.js"></script>
+			<script src="js/util.js"></script>
+			<!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
+			<script src="js/main.js"></script> 
+
+	</body>
+</html>
